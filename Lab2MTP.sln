@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2MTP", "Lab2MTP\Lab2MTP.csproj", "{F827866A-47AD-4A40-AD81-F52DFAE5284E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F827866A-47AD-4A40-AD81-F52DFAE5284E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F827866A-47AD-4A40-AD81-F52DFAE5284E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F827866A-47AD-4A40-AD81-F52DFAE5284E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F827866A-47AD-4A40-AD81-F52DFAE5284E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {011CEAEA-BFE8-449C-8CEF-1EA2C3EDFB22}
+	EndGlobalSection
+EndGlobal
