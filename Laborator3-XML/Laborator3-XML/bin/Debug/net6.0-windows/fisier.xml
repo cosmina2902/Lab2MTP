@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Buttons>
+  <button name="button1">
+    <culoare>Color [RosyBrown]</culoare>
+    <clicks>1</clicks>
+  </button>
+  <button name="button2">
+    <culoare>Color [IndianRed]</culoare>
+    <clicks>1</clicks>
+  </button>
+  <button name="button3">
+    <culoare>Color [Brown]</culoare>
+    <clicks>1</clicks>
+  </button>
+  <button name="button4">
+    <culoare>Color [LightCoral]</culoare>
+    <clicks>1</clicks>
+  </button>
+  <button name="button5">
+    <culoare>Color [MistyRose]</culoare>
+    <clicks>1</clicks>
+  </button>
+  <button name="button6">
+    <culoare>Color [Tomato]</culoare>
+    <clicks>1</clicks>
+  </button>
+  <button name="button7">
+    <culoare>Color [LightSalmon]</culoare>
+    <clicks>1</clicks>
+  </button>
+  <button name="button8">
+    <culoare>Color [Salmon]</culoare>
+    <clicks>1</clicks>
+  </button>
+  <button name="button9">
+    <culoare>Color [OrangeRed]</culoare>
+    <clicks>1</clicks>
+  </button>
+  <button name="button10">
+    <culoare>Color [DarkOrange]</culoare>
+    <clicks>1</clicks>
+  </button>
+</Buttons>
