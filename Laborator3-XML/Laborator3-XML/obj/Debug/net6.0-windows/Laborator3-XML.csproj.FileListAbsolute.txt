@@ -1,0 +1,17 @@
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\bin\Debug\net6.0-windows\Laborator3-XML.exe
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\bin\Debug\net6.0-windows\Laborator3-XML.deps.json
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\bin\Debug\net6.0-windows\Laborator3-XML.runtimeconfig.json
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\bin\Debug\net6.0-windows\Laborator3-XML.dll
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\bin\Debug\net6.0-windows\Laborator3-XML.pdb
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\obj\Debug\net6.0-windows\Laborator3-XML.csproj.AssemblyReference.cache
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\obj\Debug\net6.0-windows\Laborator3_XML.Form1.resources
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\obj\Debug\net6.0-windows\Laborator3-XML.csproj.GenerateResource.cache
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\obj\Debug\net6.0-windows\Laborator3-XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\obj\Debug\net6.0-windows\Laborator3-XML.AssemblyInfoInputs.cache
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\obj\Debug\net6.0-windows\Laborator3-XML.AssemblyInfo.cs
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\obj\Debug\net6.0-windows\Laborator3-XML.csproj.CoreCompileInputs.cache
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\obj\Debug\net6.0-windows\Laborator3-XML.dll
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\obj\Debug\net6.0-windows\refint\Laborator3-XML.dll
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\obj\Debug\net6.0-windows\Laborator3-XML.pdb
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\obj\Debug\net6.0-windows\Laborator3-XML.genruntimeconfig.cache
+C:\Users\COSMINA\OneDrive\Desktop\c#\Lab2MTP\Laborator3-XML\Laborator3-XML\obj\Debug\net6.0-windows\ref\Laborator3-XML.dll
